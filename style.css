@@ -26,10 +26,10 @@ header{
     z-index:99 ;
 }
 .logo{
+    
     font-size: 2em;
-    color:#fff ;
+    color:yellow ;
     user-select: none;
-
 }
 .navigation a{
     position: relative;
